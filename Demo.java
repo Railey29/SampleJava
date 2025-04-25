@@ -1,5 +1,6 @@
-class Demo{
+class Demo {
     public static void main(String[] args) {
-        System.out.println("Hellow, World!!");
+        var name = "Rai";
+        System.out.println(name);
     }
 }
